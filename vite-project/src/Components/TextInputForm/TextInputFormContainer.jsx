@@ -37,9 +37,10 @@ function TextInputFormContainer(){
                 setInputType("password");
             }
             console.log(inputType);
-            
-            
+                        
         }
+
+         
 
         return (<TextInputForm
                     inputType={inputType}

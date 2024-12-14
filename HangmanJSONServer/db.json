@@ -1,0 +1,160 @@
+{
+    "words": [
+        {
+            "wordValue": "MANGO",
+            "wordHint": "A fruit"
+        },
+        {
+            "wordValue": "APPLE",
+            "wordHint": "Another fruit"
+        },
+        {
+            "wordValue": "BANANA",
+            "wordHint": "Another fruit"
+        },
+        {
+            "wordValue": "QUOKKA",
+            "wordHint": "A small marsupial"
+        },
+        {
+            "wordValue": "PLATYPUS",
+            "wordHint": "An egg-laying mammal"
+        },
+        {
+            "wordValue": "ECHIDNA",
+            "wordHint": "A spiny anteater"
+        },
+        {
+            "wordValue": "AXOLOTL",
+            "wordHint": "A type of salamander"
+        },
+        {
+            "wordValue": "NARWHAL",
+            "wordHint": "A whale with a tusk"
+        },
+        {
+            "wordValue": "KOOKABURRA",
+            "wordHint": "A bird known for its laugh"
+        },
+        {
+            "wordValue": "WOMBAT",
+            "wordHint": "A burrowing marsupial"
+        },
+        {
+            "wordValue": "CASSOWARY",
+            "wordHint": "A large flightless bird"
+        },
+        {
+            "wordValue": "NUMBAT",
+            "wordHint": "A small marsupial"
+        },
+        {
+            "wordValue": "KAKAPO",
+            "wordHint": "A nocturnal parrot"
+        },
+        {
+            "wordValue": "TARSIER",
+            "wordHint": "A small primate"
+        },
+        {
+            "wordValue": "DUGONG",
+            "wordHint": "A marine mammal"
+        },
+        {
+            "wordValue": "KIWI",
+            "wordHint": "A flightless bird"
+        },
+        {
+            "wordValue": "OKAPI",
+            "wordHint": "A relative of the giraffe"
+        },
+        {
+            "wordValue": "VAQUITA",
+            "wordHint": "A small porpoise"
+        },
+        {
+            "wordValue": "FISH",
+            "wordHint": "Lives in water"
+        },
+        {
+            "wordValue": "BIRD",
+            "wordHint": "Can fly"
+        },
+        {
+            "wordValue": "COW",
+            "wordHint": "Gives milk"
+        },
+        {
+            "wordValue": "PIG",
+            "wordHint": "Farm animal"
+        },
+        {
+            "wordValue": "HORSE",
+            "wordHint": "Used for riding"
+        },
+        {
+            "wordValue": "SHEEP",
+            "wordHint": "Gives wool"
+        },
+        {
+            "wordValue": "GOAT",
+            "wordHint": "Farm animal"
+        },
+        {
+            "wordValue": "DUCK",
+            "wordHint": "A bird"
+        },
+        {
+            "wordValue": "HEN",
+            "wordHint": "Lays eggs"
+        },
+        {
+            "wordValue": "MOUSE",
+            "wordHint": "A small rodent"
+        },
+        {
+            "wordValue": "RAT",
+            "wordHint": "A larger rodent"
+        },
+        {
+            "wordValue": "FROG",
+            "wordHint": "Amphibian"
+        },
+        {
+            "wordValue": "BEE",
+            "wordHint": "Makes honey"
+        },
+        {
+            "wordValue": "ANT",
+            "wordHint": "A small insect"
+        },
+        {
+            "wordValue": "BAT",
+            "wordHint": "A flying mammal"
+        },
+        {
+            "wordValue": "TIGER",
+            "wordHint": "A wild animal"
+        },
+        {
+            "wordValue": "LION",
+            "wordHint": "Another wild animal"
+        },
+        {
+            "wordValue": "DOG",
+            "wordHint": "A pet animal"
+        },
+        {
+            "wordValue": "CAT",
+            "wordHint": "Another"
+        },
+        {
+            "wordValue": "ELEPHANT",
+            "wordHint": "A large animal"
+        },
+        {
+            "wordValue": "CAR",
+            "wordHint": "A vehicle"
+        }
+    ]
+}

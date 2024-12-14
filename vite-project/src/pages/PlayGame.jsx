@@ -17,7 +17,7 @@ function PlayGame() {
 
   function handleLetterClick(letter){
 
-    if(state.wordSelected.toUpperCase().includes(letter)){
+    if(state?.wordSelected?.toUpperCase().includes(letter)){
       console.log("Correct");
     } else {
       console.log("Incorrect");
@@ -27,22 +27,26 @@ function PlayGame() {
     setGuessedLetters([...guessedLetters, letter]);
   }
 
-
   return (
     <>
       <h1>Play Game </h1>
 
-      <MaskedText text={state.wordSelected} guessedLetters={guessedLetters}/>
+      {state?.wordSelected && (
+        <>
+          <MaskedText text={state?.wordSelected} guessedLetters={guessedLetters}/>
 
-      <div>
-      <LetterButtons text={state.wordSelected} guessedLetters={guessedLetters} onLetterClick={handleLetterClick} />
+          <div>
+              <LetterButtons text={state?.wordSelected} guessedLetters={guessedLetters} onLetterClick={handleLetterClick} />
+          </div>
 
-      </div>
+          <div>
+              <HangMan step={step} />
+          </div>
 
-      <div>
-        <HangMan step={step} />
-      </div>
+        </>
+      )}
 
+      <Link to="/" className="text-black-400">Home</Link>
       <Link to="/start" className="text-blue-400">Start Game link</Link>
 
     </>
